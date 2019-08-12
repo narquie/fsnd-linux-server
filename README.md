@@ -6,7 +6,7 @@
 ## Software Installed
 See requirements.txt for python packages installed.
 
-###Install:
+Install:
 1. apache2 (the wsgi to host the Flask site)
 2. libapache2-mod-wsgi (The library in apache2 that works with Flask and python 2 to host the site.
 3. postgresql
@@ -41,5 +41,7 @@ See requirements.txt for python packages installed.
 
 ## Third-Party Resources
 [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps) was a great source of help, as were the resources in the full stack nanodegree at Udacity.
+
 [Stack Overflow](https://www.stackoverflow.com) Has been instrumental in debugging.
+
 Thanks to my mentor Zheng W. who was there for the moments where I was having trouble debugging.
